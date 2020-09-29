@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CustomException.java&apos; to &apos;_2020_01_28/src/edu.exam10.ex06throwjvm&apos;&#x0D;&#x0A;- Original project: &apos;_2020_01_23&apos;&#x0D;&#x0A;- Destination element: &apos;_2020_01_28/src/edu.exam10.ex06throwjvm&apos;&#x0D;&#x0A;- Original element: &apos;edu.exam10.ex05customexception.CustomException.java&apos;" description="Copy compilation unit" destination="=_2020_01_28/src&lt;edu.exam10.ex06throwjvm" element1="/src&lt;edu.exam10.ex05customexception{CustomException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1580172609466" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,22 @@
+package edu.exam02.array03;
+
+import java.util.Random;
+
+// 700명의 점수를 난수로 입력받고
+// 총합과 평균을 구하라
+
+public class KorArray {
+	public static void main(String[] args) {
+		Random rd = new Random();
+		int[] kor = new int[700];
+		for(int i=0;i<700;i++) {
+			kor[i] = rd.nextInt(101);
+		}
+	}
+}
+
+
+
+
+
+

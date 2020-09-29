@@ -1,0 +1,2 @@
+java edu.exam18.ex21__swing_id_password.JLabelJTextField
+pause

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ObjectSerialize.java&apos; to &apos;_2020_01_30/src/edu.exam14.ex13object_serialize&apos;&#x0D;&#x0A;- Original project: &apos;_2020_01_30&apos;&#x0D;&#x0A;- Destination element: &apos;_2020_01_30/src/edu.exam14.ex13object_serialize&apos;&#x0D;&#x0A;- Original element: &apos;edu.exam14.ex12object_serialize.ObjectSerialize.java&apos;" description="Copy compilation unit" destination="/src&lt;edu.exam14.ex13object_serialize" element1="/src&lt;edu.exam14.ex12object_serialize{ObjectSerialize.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1580346026063" units="1" version="1.0"/>
+</session>

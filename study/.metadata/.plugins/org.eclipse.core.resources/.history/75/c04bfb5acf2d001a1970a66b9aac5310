@@ -1,0 +1,7 @@
+package edu.exam.address41;
+
+public class AddressMain {
+	public static void main(String[] args) {
+		
+	}
+}

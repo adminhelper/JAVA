@@ -1,0 +1,43 @@
+package edu.exam.address41;
+
+//MVC 패턴 설계
+//모든 비즈니스 sw는 이 3가지로 구성된다.
+//Model : 데이터 관리
+//View  : 화면(사용자와의 인터페이스)
+//Controller : Model - View사이를 연결
+//                     업무 처리
+//<주소록 프로젝트>
+//클래스 정의
+//1) 주소 클래스(Model)
+//2) 메뉴 클래스(View)
+//3) 주소록 처리(관리) 클래스(Controller)
+//4) 시작 클래스
+
+class Address{
+	String name;
+	String phone;
+	String address;
+}
+
+class Menu{
+	void mainLoop() {
+		
+	}
+	void printMenu() {
+		
+	}
+	int getSelectMenu() {
+		int sel = -1;
+		return sel;
+	}
+}
+
+class AddressManager{
+	
+}
+
+public class AddressMain {
+	public static void main(String[] args) {
+		
+	}
+}
